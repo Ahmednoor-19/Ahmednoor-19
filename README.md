@@ -106,15 +106,13 @@ I'm an AI/ML Engineer with 2+ years of experience delivering intelligent systems
 
 ---
 
-### 📊 [Financial AI Analyst](https://github.com/Ahmednoor-19/Financial-AI-Analyst)
-> Dual-agent system combining web search and financial data analysis
-
-- Stock prices, analyst recommendations, company news, and fundamentals
-- Streamlit interface with Markdown-formatted output
-- Powered by phi-data agent framework
-
-`Python` `Streamlit` `phi-data` `yfinance`
-
+### 📄 [Document AI OCR Pipeline](https://github.com/Ahmednoor-19/DocumentAI-OCR-Project)
+> Automated document field extraction using Google Document AI
+ 
+- Entity extraction and structured data output from unstructured documents
+- Part of a broader RAG + extraction workflow reducing manual processing by ~70%
+`Google Document AI` `Python` `OCR` `n8n`
+ 
 ---
 
 ## 🎓 Education & Certifications
