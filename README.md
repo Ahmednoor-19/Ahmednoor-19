@@ -117,18 +117,6 @@ I'm an AI/ML Engineer with 2+ years of experience delivering intelligent systems
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmednoor-19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmednoor-19&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 - 🎓 **BS Software Engineering** — University of Karachi, UBIT (2020–2024)
